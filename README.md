@@ -1,2 +1,3 @@
 # Containers-library
-Realisation of CPP containers library
+Реализация библиотеки контейнеров на си++
+Написаны: вектор, лист, очередь, стэк, мап и сет
